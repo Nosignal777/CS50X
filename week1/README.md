@@ -1,5 +1,5 @@
 # Achievement
-1. Hello, It’s Me
+-[x] Hello, It’s Me
 2. Mario(more)
 3. Credit
 # Description
