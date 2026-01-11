@@ -1,2 +1,2 @@
-# CS50X
+# CS50x
 This is CS50x 2026!
